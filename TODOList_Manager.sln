@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TODOList_Manager", "TODOList_Manager\TODOList_Manager.pyproj", "{B866876C-BB96-4DC9-ACC2-E134075E07EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B866876C-BB96-4DC9-ACC2-E134075E07EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B866876C-BB96-4DC9-ACC2-E134075E07EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98822F68-6408-4A6E-819B-0C211F631CAA}
+	EndGlobalSection
+EndGlobal
